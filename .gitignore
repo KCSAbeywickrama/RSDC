@@ -1,0 +1,5 @@
+PCB/PCB_Project/__Previews/*
+PCB/PCB_Project/History/*
+PCB/PCB_Project/Project Logs for PCB_Project/*
+
+!.gitignore

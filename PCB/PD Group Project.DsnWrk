@@ -1,0 +1,10 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=PCB_Project\PCB_Project.PrjPcb
+[Project2]
+ProjectPath=..\..\..\Altium\libs\mylib\Common Parts.LibPkg
+[Project3]
+ProjectPath=..\..\..\LabProject\rgb-g2\pcb_design\libs\Footprints_lib.LibPkg
+[Project4]
+ProjectPath=..\..\..\Altium\libs\mylib\Miscellaneous Devices\Miscellaneous Devices.LibPkg
