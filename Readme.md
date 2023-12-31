@@ -1,8 +1,8 @@
-﻿# Safety Switch for Iron 
+﻿# Safety Switch for Domestic Iron 
 
 **A Smart solution for forgetting turn off domestic irons**
 
-![](imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.004.png)
+<p align="center"><img src="imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.004.png" alt="Figure"></p>
 
 + Busy Lifestyle cause to forget to turn of the  iron frequently 
 
@@ -14,19 +14,19 @@
 
 ## Product Architecture
 
-![](imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.012.jpeg)
+<p align="center"><img src="imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.012.jpeg" alt="Figure"></p>
 
 ## Schematic Diagram
 
-![](imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.014.jpeg)
+<p align="center"><img src="imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.014.jpeg" alt="Figure"></p>
 
 ## PCB
 
-![](imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.015.png)
+<p align="center"><img src="imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.015.png" alt="Figure"></p>
 
 ## Enclosure 
 
-![](imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.016.png)
+<p align="center"><img src="imgs/Aspose.Words.3a5faa12-43a4-46cd-b396-1173050b2378.016.png" alt="Figure"></p>
 
 ## Group Members
 
